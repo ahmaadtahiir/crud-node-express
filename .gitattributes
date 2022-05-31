@@ -1,5 +1,5 @@
 *.html linguist-detectable=false
 *.javascript linguist-detectable=false
 *.java linguist-detectable=false
-*.node js linguist-detectable=true
+*.nodejs linguist-detectable=true
 *.js linguist-detectable=false
